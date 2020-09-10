@@ -15,6 +15,8 @@ namespace LightsOut
 
         private AboutForm aboutBox;             // About dialog box
 
+        private LightsOutGame lightsOutGame;
+
         public MainForm()
         {
             InitializeComponent();
