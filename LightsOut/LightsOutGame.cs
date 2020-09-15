@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace LightsOut
 {
@@ -10,7 +6,7 @@ namespace LightsOut
     {
         private int gridSize = 3;               // Number of cells in grid
         private bool[,] grid;                   // Stores on/off state of cells in grid
-        private Random rand;		        // Used to generate random numbers
+        private Random rand;		            // Used to generate random numbers
 
         public const int MaxGridSize = 7;
         public const int MinGridSize = 3;

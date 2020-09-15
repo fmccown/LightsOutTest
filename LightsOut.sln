@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightsOut", "LightsOut\LightsOut.csproj", "{EC66ECDB-1DBD-4F4F-8BDB-8276B68D1035}"
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightsOut", "LightsOut\LightsOut.csproj", "{6909BD0C-2B63-4703-911B-AB6C59B70A35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,12 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EC66ECDB-1DBD-4F4F-8BDB-8276B68D1035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EC66ECDB-1DBD-4F4F-8BDB-8276B68D1035}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EC66ECDB-1DBD-4F4F-8BDB-8276B68D1035}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EC66ECDB-1DBD-4F4F-8BDB-8276B68D1035}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6909BD0C-2B63-4703-911B-AB6C59B70A35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6909BD0C-2B63-4703-911B-AB6C59B70A35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6909BD0C-2B63-4703-911B-AB6C59B70A35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6909BD0C-2B63-4703-911B-AB6C59B70A35}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2FA9452-11CF-4347-AAEA-ACC72F514F0D}
 	EndGlobalSection
 EndGlobal
